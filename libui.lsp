@@ -4,7 +4,7 @@
 ;; @author FdB 2018
 ;;
 ;;
-;; A newLisp binding to the <a>libui</a> library. You can download the latest from 
+;; A newLisp binding to the libui library. You can download the latest from 
 ;; @link https://github.com/andlabs/libui/releases
 ;; Put the libui.so (Linux), libui.dll (Windows) or libui.dylib (OSX) into 
 ;; "/usr/local/share/newlisp/" (Linux & OSX
